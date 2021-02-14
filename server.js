@@ -34,5 +34,7 @@ function appMenu {
              "Update employee information"
          ]
      }   
-    ])
+    ]).then((response) => {
+
+    })
 }
